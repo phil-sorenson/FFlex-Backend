@@ -1,2 +1,3 @@
-# FF-BACK-5-8-Attempt
-Backend Attempt 5/8
+Fantasy Flex - Capstone project backend
+
+After troubleshooting my extensive Python PATH/venv errors & issues, This django venv seems to be functioning correctly
